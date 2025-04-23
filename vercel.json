@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/stream/:match*",
-      "destination": "http://lexus.hubns.top:80/Leonardo77/983469871/:match*"
-    }
-  ]
-}
